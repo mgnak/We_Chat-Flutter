@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBeszZHLYJNyjUhpujMH9yZ4ol9JqsAmPU',
+    apiKey: ' ',
     appId: '1:288842837392:android:1353619813061d867a5715',
     messagingSenderId: '288842837392',
     projectId: 'we-chat-75f13',
@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCCYZoZ5DvuitZJ7qK5iWM3ARHBDoFFriY',
+    apiKey: ' ',
     appId: '1:288842837392:ios:f39c8dc31525a6687a5715',
     messagingSenderId: '288842837392',
     projectId: 'we-chat-75f13',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBW-1MjB067GUwQHPnYmWkr_4iMz13UgRs',
+    apiKey:  ',
     appId: '1:288842837392:web:6ae5bafc6d7d4f407a5715',
     messagingSenderId: '288842837392',
     projectId: 'we-chat-75f13',
